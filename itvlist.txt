@@ -1,16 +1,6 @@
 央视频道,#genre#
-CCTV4,http://121.19.134.250:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://121.19.134.250:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://121.19.134.250:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-北京卫视,http://121.19.134.250:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://121.19.134.147:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://121.19.134.250:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://121.19.134.147:808/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://121.19.134.250:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://121.19.134.250:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://121.19.134.147:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://121.19.134.250:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://121.19.134.147:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏频道,#genre#
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
